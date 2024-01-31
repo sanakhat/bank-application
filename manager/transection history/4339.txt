@@ -1,0 +1,12 @@
+3/3/2019
+withrow successfull:
+ammount:4balance:399996
+3/4/2019
+withrow successfull:
+ammount:4balance:4000000
+3/5/2019
+withrow successfull:
+ammount:4balance:5000000
+3/6/2019
+withrow successfull:
+ammount:4balance:600000
